@@ -1,0 +1,12 @@
+First, you have to make sure that Git is all set up on your pc before anything can happen.
+
+Next, Sign up or login through herokus website. 
+
+open ubuntu and type `heroku login`
+
+Check versions: `node --version`
+                `npm --version`
+                `git --version`
+                
+This is where I couldnt make it work. I cloned the github into my already cloned git and it fdailed and I couldnt make it happen so thats where I'm at. I havent completed lab 5 yet.
+                
